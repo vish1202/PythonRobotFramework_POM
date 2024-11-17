@@ -9,6 +9,7 @@ pabot --processes 2 --outputdir Results "TestCases\Add To Cart.robot"
 
 # Install Dependencies
 File > Settings > Interpreter:
+
 robotframework
 
 robotframework-pabot
